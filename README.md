@@ -30,18 +30,22 @@ Responsive Design: Making sure websites look perfect on mobile, tablets, and des
 </p>
 
 ---
+Graphic Design Experience (1 Year)
+1. One year creative design at Benchmark.
+2. Created beautiful visual and brand identities.
+3. Designed custom graphics and digital assets.
+4. Improved website UI/UX layouts perfectly.
+
 📈 Lead Generation Experience (1.5+ Years)
-1. Targeted B2B Lead Generation: Over 1.5 years of experience in identifying, researching, and capturing high-quality business leads tailored to specific industries.
+1. Gathered targeted B2B verified business leads.
 
-2. Data Scraping & Prospecting: Skilled in utilizing modern tools and platforms (like LinkedIn, Sales Navigator, and web directories) to build accurate prospect lists.
+2. Built prospect lists using modern tools.
 
-3. Email Outreach & Marketing: Experienced in setting up targeted cold email campaigns and writing high-converting copy to turn cold prospects into warm leads.
+3. Managed successful cold email outreach campaigns.
 
-4. Lead Qualification & Strategy: Expert at filtering and verifying data (emails, phone numbers, and company insights) to ensure high deliverability and zero bounce rates.
+4. Maintained clean and accurate lead databases.
 
-5. CRM & Data Management: Proficient in organizing and managing lead databases using CRM tools and spreadsheets for seamless sales tracking.
-
-6. Business Growth Mindset: Combining WordPress development with lead generation to help clients not only build modern websites but also drive actual traffic and business revenue.
+5. Generated quality clients to boost revenue.
 ---
 
 ## 📫 Connect With Me
