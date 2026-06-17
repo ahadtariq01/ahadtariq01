@@ -24,8 +24,11 @@ Responsive Design: Making sure websites look perfect on mobile, tablets, and des
 ## 🚀 Frontend Stack
 
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=html](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Wordpress.svg)" height="40"/>
+  
   <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
+<img src="https://skillicons.dev/icons?i=Elementor" height="40"/>
+<img src="https://skillicons.dev/icons?i=ai" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </p>
 
 ---
