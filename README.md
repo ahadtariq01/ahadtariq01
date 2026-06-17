@@ -1,83 +1,47 @@
-# Muhammad Abdullah
+# Abdul Ahad
 
 <div align="center">
 
-### Frontend-Focused MERN Developer  
-React • JavaScript • UI Engineering
-
+### Wordpress Developer  
+Wordpress • Lead Generation specialist • Graphic Designer
 </div>
 
 ---
 
 ## 👋 About Me
 
-I’m Muhammad Abdullah, a Software Engineering graduate from COMSATS University Lahore and a frontend-focused MERN stack developer.
+I am a passionate WordPress Developer specializing in building clean, responsive, and modern websites. I love turning designs into fully functional WordPress sites using modern block editors and page builders.
 
-I specialize in building clean, responsive, and scalable user interfaces using modern React architecture. My development approach emphasizes component reusability, maintainable code structure, and performance-conscious UI design.
+Website Creation: Designing and developing complete websites from scratch.
 
-While I have backend knowledge in Node.js and Express, my primary strength lies in frontend engineering — transforming ideas into interactive and efficient web interfaces.
+Page Builders: Expert in Elementor and Gutenberg Block Editor.
 
+Frontend Customization: Tweaking and designing layouts using HTML and CSS.
+
+Responsive Design: Making sure websites look perfect on mobile, tablets, and desktops.
 ---
 
 ## 🚀 Frontend Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
 </p>
 
-### React Development
-- Functional Components & Hooks
-- State Management (useState, useEffect, useContext)
-- Component Composition
-- Controlled Forms
-- API Integration
-- Conditional Rendering
-- Reusable UI Patterns
-
-### JavaScript (ES6+)
-- Async/Await & Promises
-- Array Methods & Functional Patterns
-- Closures & Scope
-- Event Handling
-- DOM Fundamentals
-
-### UI & Styling
-- Tailwind CSS
-- Bootstrap Grid System
-- Flexbox & CSS Grid
-- Mobile-First Responsive Design
-- Layout Debugging & Overflow Handling
-
 ---
+📈 Lead Generation Experience (1.5+ Years)
+1. Targeted B2B Lead Generation: Over 1.5 years of experience in identifying, researching, and capturing high-quality business leads tailored to specific industries.
 
-## ⚙️ Supporting Backend Knowledge
+2. Data Scraping & Prospecting: Skilled in utilizing modern tools and platforms (like LinkedIn, Sales Navigator, and web directories) to build accurate prospect lists.
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-</p>
+3. Email Outreach & Marketing: Experienced in setting up targeted cold email campaigns and writing high-converting copy to turn cold prospects into warm leads.
 
-- REST API Integration
-- Express Routing
-- Basic Authentication (JWT)
-- MongoDB CRUD Operations
+4. Lead Qualification & Strategy: Expert at filtering and verifying data (emails, phone numbers, and company insights) to ensure high deliverability and zero bounce rates.
 
----
+5. CRM & Data Management: Proficient in organizing and managing lead databases using CRM tools and spreadsheets for seamless sales tracking.
 
-## 🧠 Development Philosophy
-
-- Build reusable components  
-- Keep UI clean and minimal  
-- Write maintainable and structured code  
-- Optimize rendering performance  
-- Focus on real-world, production-ready practices  
-
+6. Business Growth Mindset: Combining WordPress development with lead generation to help clients not only build modern websites but also drive actual traffic and business revenue.
 ---
 
 ## 📫 Connect With Me
@@ -86,11 +50,11 @@ While I have backend knowledge in Node.js and Express, my primary strength lies 
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-abdullah-949b26195/" target="_blank">
+<a href="www.linkedin.com/in/abdul-ahad-023958370" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!-- - Portfolio: https://YOUR_DOMAIN  
-- Email: your@email.com   -->
+- Email: ahadtariq616@gmail.com   -->
 
 ---
 
