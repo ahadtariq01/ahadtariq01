@@ -46,8 +46,8 @@ I may be a student, but I treat every project with professionalism and dedicatio
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
   <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=Bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="40"/>
+  <img src="https://skillicons.dev/icons?i=Linkedin" height="40"/>
 
 </p>
 
