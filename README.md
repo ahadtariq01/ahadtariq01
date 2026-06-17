@@ -3,7 +3,7 @@
 <div align="center">
 
 ### Wordpress Developer  
-Wordpress • Lead Generation specialist • Graphic Designer
+Wordpress Developer • Lead Generation specialist • Graphic Designer
 </div>
 
 ---
@@ -24,8 +24,7 @@ Responsive Design: Making sure websites look perfect on mobile, tablets, and des
 ## 🚀 Frontend Stack
 
 <p align="left">
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="[https://skillicons.dev/icons?i=html](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Wordpress.svg)" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
 </p>
 
