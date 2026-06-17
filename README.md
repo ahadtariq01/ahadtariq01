@@ -115,7 +115,7 @@ I may be a student, but I treat every project with professionalism and dedicatio
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/abdul-ahad-023958370/?skipRedirect=true)" target="_blank">
+<a href="[https://www.linkedin.com/in/abdul-ahad-023958370/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!-- - Portfolio: https://YOUR_DOMAIN  
