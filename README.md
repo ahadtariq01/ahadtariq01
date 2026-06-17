@@ -28,13 +28,6 @@ Responsive Design: Making sure websites look perfect on mobile, tablets, and des
 </p>
 
 ---
-<b>Graphic Design Experience (1 Year)</b>
-
-1. One year creative design at Benchmark.
-2. Created beautiful visual and brand identities.
-3. Designed custom graphics and digital assets.
-4. Improved website UI/UX layouts perfectly.
-
 <b> Lead Generation Experience (1.5+ Years)</b>
 
 1. Gathered targeted B2B verified business leads.
@@ -42,6 +35,14 @@ Responsive Design: Making sure websites look perfect on mobile, tablets, and des
 3. Managed successful cold email outreach campaigns.
 4. Maintained clean and accurate lead databases.
 5. Generated quality clients to boost revenue.
+
+<b>Graphic Design Experience (1 Year)</b>
+
+1. One year creative design at Benchmark.
+2. Created beautiful visual and brand identities.
+3. Designed custom graphics and digital assets.
+4. Improved website UI/UX layouts perfectly.
+5. Balanced creative ideas with WordPress design.
 ---
 
 ## 📫 Connect With Me
