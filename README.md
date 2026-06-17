@@ -18,15 +18,15 @@ Page Builders: Expert in Elementor and Gutenberg Block Editor.
 
 Frontend Customization: Tweaking and designing layouts using HTML and CSS.
 
-Responsive Design: Making sure websites look perfect on mobile, tablets, and desktops.
----
+Responsive Design: Making sure websites look perfect on mobile, tablets, and desktops.---
 
 ## 🚀 Frontend Stack
 
 <p align="left">
   
   <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
-<img src="https://skillicons.dev/icons?i=Elementor" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
 <img src="https://skillicons.dev/icons?i=ai" height="40"/>
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </p>
