@@ -11,13 +11,9 @@ Wordpress Developer • Lead Generation specialist • Graphic Designer
 ## 👋 About Me
 
 I am a passionate WordPress Developer specializing in building clean, responsive, and modern websites. I love turning designs into fully functional WordPress sites using modern block editors and page builders.
-
 Website Creation: Designing and developing complete websites from scratch.
-
 Page Builders: Expert in Elementor and Gutenberg Block Editor.
-
 Frontend Customization: Tweaking and designing layouts using HTML and CSS.
-
 Responsive Design: Making sure websites look perfect on mobile, tablets, and desktops.---
 
 ## 🚀 Frontend Stack
@@ -32,21 +28,19 @@ Responsive Design: Making sure websites look perfect on mobile, tablets, and des
 </p>
 
 ---
-Graphic Design Experience (1 Year)
+<b>Graphic Design Experience (1 Year)</b>
+
 1. One year creative design at Benchmark.
 2. Created beautiful visual and brand identities.
 3. Designed custom graphics and digital assets.
 4. Improved website UI/UX layouts perfectly.
 
-📈 Lead Generation Experience (1.5+ Years)
+<b> Lead Generation Experience (1.5+ Years)</b>
+
 1. Gathered targeted B2B verified business leads.
-
 2. Built prospect lists using modern tools.
-
 3. Managed successful cold email outreach campaigns.
-
 4. Maintained clean and accurate lead databases.
-
 5. Generated quality clients to boost revenue.
 ---
 
