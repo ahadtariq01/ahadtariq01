@@ -47,7 +47,7 @@ I may be a student, but I treat every project with professionalism and dedicatio
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
   <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
   <img src="https://skillicons.dev/icons?i=ai" height="40"/>
-  <img src="https://skillicons.dev/icons?i=Linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 
 </p>
 
@@ -111,14 +111,14 @@ I may be a student, but I treat every project with professionalism and dedicatio
 | **Security** | Login Protection, SSL, Firewall |
 ## 📫 Connect With Me
 
-<a href="https://abdullah-warraich-ch.vercel.app/" target="_blank">
+<a href="https://ahadtariq01.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abdul-ahad-023958370">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!-- - Portfolio: https://YOUR_DOMAIN  
+<!-- - Portfolio: https://ahadtariq01.vercel.app  
 - Email: ahadtariq616@gmail.com   -->
 
 ---
