@@ -118,13 +118,13 @@ I may be a student, but I treat every project with professionalism and dedicatio
 <a href="https://www.linkedin.com/in/abdul-ahad-023958370">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!-- - Portfolio: https://ahadtariq01.vercel.app  
+<!-- - Portfolio: https://ahad-tariq01.vercel.app  
 - Email: ahadtariq616@gmail.com   -->
 
 ---
 
 <div align="center">
 
-Always improving as a frontend engineer.
+Always improving as a Wordpress Developer.
 
 </div>
