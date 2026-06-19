@@ -111,7 +111,7 @@ I may be a student, but I treat every project with professionalism and dedicatio
 | **Security** | Login Protection, SSL, Firewall |
 ## 📫 Connect With Me
 
-<a href="https://ahadtariq01.vercel.app/" target="_blank">
+<a href="https://ahad-tariq01.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
