@@ -105,7 +105,7 @@ I may be a student, but I treat every project with professionalism and dedicatio
 |------------|------------------|
 | **Theme Dev** | PHP, WordPress Hooks, Template Hierarchy |
 | **Page Builders** | Elementor Pro, Gutenberg |
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, Tailwind |
+| **Frontend** | HTML5, CSS3, JavaScript
 | **SEO** | Yoast SEO, Rank Math, Schema Markup |
 | **Performance** | Caching, CDN, Image Optimization |
 | **Security** | Login Protection, SSL, Firewall |
